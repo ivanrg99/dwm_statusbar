@@ -1,4 +1,4 @@
-#!bin/sh
+#!/bin/sh
 #CODE: LYOKO
 
 while :; do
